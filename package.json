@@ -1,0 +1,20 @@
+{
+  "name": "jsaqa-homeworks-7-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snezhka003/jsaqa-homeworks-7-02.git"
+  },
+  "author": "snezhka003",
+  "license": "ISC",
+  "keywords": ["test"],
+  "bugs": {
+    "url": "https://github.com/snezhka003/jsaqa-homeworks-7-02/issues"
+  },
+  "homepage": "https://github.com/snezhka003/jsaqa-homeworks-7-02#readme"
+}
